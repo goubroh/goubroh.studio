@@ -1,2 +1,2 @@
 # goubroh.studio
-Link
+Link- https://goubroh.github.io/goubroh.studio/
